@@ -1,1 +1,10 @@
-This is not just a story. This is the story about the entirety of mankind
+Task delegation:
+
+WIX: 
+- Ismat
+- Najib
+
+FIGMA:
+- Yu Ning
+- Amri
+- Candu
