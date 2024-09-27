@@ -27,3 +27,8 @@ Amri's Commit
 
 2. Variation of Details Page
 - following the same concept as the other items
+
+3. Change quantity overlay window
+- when clicked the edit quantity button, an overlay window will popup
+- in the window you can edit the quantity up to 5
+- button confirmation and cancellation added
