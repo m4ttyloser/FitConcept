@@ -19,3 +19,27 @@ FIGMA PAGES:
 6. payment pg
 7. invoice pg
 8. track order pg
+
+Amri's Commit
+1. Custom Variatons/Component
+- Change Quantity (from 0 to 5)
+- wishlist button (clickable)
+
+2. Variation of Details Page
+- following the same concept as the other items
+
+3. Change quantity overlay window
+- when clicked the edit quantity button, an overlay window will popup
+- in the window you can edit the quantity up to 5
+- button confirmation and cancellation added
+
+4. wishlist page
+- listing all the added wishlist items
+
+5. variaton of verified tick
+- changing the verified tick gif to static tick
+
+6. payment successful overlay window
+- when payment successful, an overlay window will popup
+- in the window it stated your payment is successful and offer you to view
+- button invoice
