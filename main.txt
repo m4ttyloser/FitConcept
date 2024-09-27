@@ -19,3 +19,8 @@ FIGMA PAGES:
 6. payment pg
 7. invoice pg
 8. track order pg
+
+Amri's Commit
+1. Custom Variatons/Component
+- Change Quantity (from 0 to 5)
+- wishlist button (clickable)
