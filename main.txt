@@ -43,3 +43,20 @@ Amri's Commit
 - when payment successful, an overlay window will popup
 - in the window it stated your payment is successful and offer you to view
 - button invoice
+
+Checklist
+- Wix website done
+- Figma Mobile App done
+- Canva User Manual done
+- Presentation Video
+1. Haziq - ?
+2. Ismat - ?
+3. Amri - ?
+4. Ning - done
+5. Amier - done
+- Peer Evaluation 
+1. Haziq - ?
+2. Ismat - ?
+3. Amri - ?
+4. Ning - ?
+5. Amier - done
