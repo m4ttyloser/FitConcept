@@ -8,3 +8,14 @@ FIGMA:
 - Yu Ning
 - Amri
 - Candu
+
+
+FIGMA PAGES:
+1. home pg
+2. user register and login
+3. product menu pg
+4. product details pg
+5. cart summary pg
+6. payment pg
+7. invoice pg
+8. track order pg
